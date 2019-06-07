@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-weight: 100;
+	font-family: Arial;
+
+}
+.flex{
+	display: flex;
+	background: red
+
+}
+.block{
+		margin-left: 30px;
+		text-align: center;
+}
+p{
+	background: red
+}
+img{
+	width: 70%;
+}
